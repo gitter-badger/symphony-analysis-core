@@ -1,5 +1,7 @@
 # SymphonyAnalysis (In development)
 
+[![Join the chat at https://gitter.im/ala-laurila-lab/symphony-analysis-core](https://badges.gitter.im/ala-laurila-lab/symphony-analysis-core.svg)](https://gitter.im/ala-laurila-lab/symphony-analysis-core?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Symphony analysis code from SchwartzLab @ Northwestern University https://github.com/SchwartzNU/SymphonyAnalysis/
 commit #f03bdd1eacd2475af42bff2aeb575bb7c89b46c5
 
